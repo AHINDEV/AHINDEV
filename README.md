@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Brototype**
 
-- 👨‍💻 All of my projects are available at [ahindev.github.io/ahindev.in](ahindev.github.io/ahindev.in)
+- 👨‍💻 All of my projects are available at [ahindev.github.io/ahindev.in]()
 
 - 📝 I regularly write articles on [youtube.com](youtube.com)
 
