@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **My own cloud based linux**
 
-- 🌱 I’m currently learning **Python, bash ,html , css , java Script**
+- 🌱 I’m currently learning **Python, bash ,html , css , java Script , Dajngo , **
 
 - 👯 I’m looking to collaborate on **Web desinig**
 
-- 🤝 I’m looking for help with **Brototype**
+- 🤝 I’m looking for help with **Fullstack**
 
 - 👨‍💻 All of my projects are available at [ahindev.github.io/ahindev.in]()
 
