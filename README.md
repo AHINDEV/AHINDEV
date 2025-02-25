@@ -1,5 +1,4 @@
-
-- **[Repository 1](https://github.com/ahindev/repo1)**: <h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Ahindev
 </h1>
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
@@ -86,30 +85,21 @@ I'm a **frontend developer** with a passion for building intuitive and visually 
 
 ---
 
-### 📂 Latest Repositories
+### 📂 Featured Projects
 
-Here are some of my most recent repositories:
+Here are some of my notable projects:
 
-<!-- Replace with your latest repositories -->
-- **[Repository 1](https://github.com/AHINDEV/CCTV-HACKING.git)**: This is a Python script that exploits vulnerabilities in CCTV cameras to gain unauthorized access and take control of the surveillance footage. The tool is designed to be used for ethical hacking and penetration testing purposes only.
-- **[Repository 2](https://github.com/AHINDEV/Phishing-telegram-bot.git)**: A short, catchy description of your project. Explain what it does and why it matters.
-  
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/ahindev">Ahindev</a>
-</
-- **[Repository 2](https://github.com/ahindev/repo2)**: A brief description of the repository.
-- **[Repository 3](https://github.com/ahindev/repo3)**: A brief description of the repository.
+- **[Project 1](https://github.com/ahindev/project1)**: A brief description of the project.
+- **[Project 2](https://github.com/ahindev/project2)**: A brief description of the project.
+- **[Project 3](https://github.com/ahindev/project3)**: A brief description of the project.
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/ahindev">Ahindev</a>
-</p>
-- **[Repository 2](https://github.com/ahindev/repo2)**: A brief description of the repository.
-- **[Repository 3](https://github.com/ahindev/repo3)**: A brief description of the repository.
+### 📝 Latest Blog Posts
+
+- [How to Build a Responsive Website](https://yourblog.com)
+- [Getting Started with Python](https://yourblog.com)
+- [Top 10 Tools for Frontend Developers](https://yourblog.com)
 
 ---
 
