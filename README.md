@@ -1,35 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ahindev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahindev&label=Profile%20views&color=0e75b6&style=flat" alt="ahindev" /> </p>
+- **[Repository 1](https://github.com/ahindev/repo1)**: <h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Ahindev
+</h1>
+<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahindev" alt="ahindev" /></a> </p>
-
-- 🔭 I’m currently working on **My own cloud based linux**
-
-- 🌱 I’m currently learning **Python, bash ,html , css , java Script , Dajngo , **
-
-- 👯 I’m looking to collaborate on **Web desinig**
-
-- 🤝 I’m looking for help with **Fullstack**
-
-- 👨‍💻 All of my projects are available at [ahindev.github.io/ahindev.in]()
-
-- 📝 I regularly write articles on [youtube.com](youtube.com)
-
-- 📫 How to reach me **ahindev27@gmail.com**
-
-- ⚡ Fun fact **i think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ahindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahindev" height="30" width="40" /></a>
-<a href="https://instagram.com/ahind2xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahind2xd" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ahindev">
+    <img src="https://komarev.com/ghpvc/?username=ahindev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahindev&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahindev&show_icons=true&locale=en&layout=compact" alt="ahindev" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahindev&show_icons=true&locale=en" alt="ahindev" /></p>
+I'm a **frontend developer** with a passion for building intuitive and visually appealing web applications. I specialize in creating responsive designs and seamless user experiences. When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and solving real-world problems.
+
+- 🔭 **Currently Working On**: My own cloud-based Linux distribution.
+- 🌱 **Currently Learning**: Python, Bash, HTML, CSS, JavaScript, Django.
+- 👯 **Looking to Collaborate On**: Web design and development projects.
+- 🤝 **Looking for Help With**: Fullstack development.
+- 📫 **How to Reach Me**: [ahindev27@gmail.com](mailto:ahindev27@gmail.com).
+- ⚡ **Fun Fact**: I can solve a Rubik's Cube in under 2 minutes.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://dev.to/ahindev" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://instagram.com/ahind2xd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ahindev27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahindev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ahindev/ahindev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+### 🎵 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem" alt="Now Playing on Spotify" style="border-radius: 12px; border: 2px solid #1DB954; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+</p>
+
+---
+
+### 📂 Latest Repositories
+
+Here are some of my most recent repositories:
+
+<!-- Replace with your latest repositories -->
+- **[Repository 1](https://github.com/AHINDEV/CCTV-HACKING.git)**: This is a Python script that exploits vulnerabilities in CCTV cameras to gain unauthorized access and take control of the surveillance footage. The tool is designed to be used for ethical hacking and penetration testing purposes only.
+- **[Repository 2](https://github.com/AHINDEV/Phishing-telegram-bot.git)**: A short, catchy description of your project. Explain what it does and why it matters.
+  
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/ahindev">Ahindev</a>
+</
+- **[Repository 2](https://github.com/ahindev/repo2)**: A brief description of the repository.
+- **[Repository 3](https://github.com/ahindev/repo3)**: A brief description of the repository.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/ahindev">Ahindev</a>
+</p>
+- **[Repository 2](https://github.com/ahindev/repo2)**: A brief description of the repository.
+- **[Repository 3](https://github.com/ahindev/repo3)**: A brief description of the repository.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/ahindev">Ahindev</a>
+</p>
